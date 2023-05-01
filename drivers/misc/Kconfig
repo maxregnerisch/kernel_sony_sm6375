@@ -548,4 +548,5 @@ source "drivers/misc/habanalabs/Kconfig"
 source "drivers/misc/haptic_nv/Kconfig"
 source "drivers/misc/ti_haptics/Kconfig"
 source "drivers/misc/huaqinhardware_info/Kconfig"
+source "drivers/misc/kprofiles/Kconfig"
 endmenu
